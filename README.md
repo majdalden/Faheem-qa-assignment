@@ -1,4 +1,4 @@
-#QA Technical Assignment 🤝
+# QA Technical Assignment 🤝
 ## Description 
 In this assigment, you are going to write a simple automated test script for an android app, this assignment shouldn't take more than 1 hour
 
