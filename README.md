@@ -18,7 +18,7 @@ In this assigment, you are going to write a simple automated test script for an 
 ## What You are Supposed to do?
 ### 1. Write a test to click on "تصفح كزائر" button
 ![screenshot_1](screenshot_1.png)
-#### 2. Check if this page was loaded
+### 2. Check if this page was loaded
 
 ![screenshot_2](screenshot_2.png)
 
