@@ -11,7 +11,7 @@ In this assigment, you are going to write a simple automated test script for an 
 1. Clone this repo using `git clone https://github.com/FaheemApp/qa-assignment.git`
 2. Make sure Appium is installed in your local machine, 
 3. Install node dependencies using this command `npm install`
-4. Replace `<APK_DIRECTORY>` with the correct path
+4. Replace `<APK_DIRECTORY>` with the correct APK path, note that the APK file can be found in this repo
 5. Write your tests in index.js
 6. use the command `node index.js`
 
