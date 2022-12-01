@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/FaheemApp/qa-assignment#readme",
   "dependencies": {
-    "webdriverio": "^7.20.1"
+    "webdriverio": "^7.27.0"
+  },
+  "devDependencies": {
+    "wdio-wait-for": "^3.0.1"
   }
 }
